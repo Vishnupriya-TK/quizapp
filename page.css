@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 20px; 
+    color: aliceblue;
+    position: relative;
+    font-size: 2.5em;
+    text-shadow: 1px 1px 5px rgba(208, 193, 193, 0.7);
+    margin-top: 20px; 
+    z-index: 10; 
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column; 
+    align-items: center;
+    position: relative;
+    margin-top: 10px; 
+}
+
+.quiz-container {
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 black;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(40, 137, 48);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    z-index: 1;
+    position: relative;
+    margin-top: 30px; 
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    margin-left: 30px;
+}
+
+li {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    padding: 5px;
+    cursor: pointer;
+}
+#submit {
+    background-color: #23bf0b;
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+    display: block;
+    width: 100%;
+    padding: 10px 0; 
+    border-radius: 0 0 10px 10px; 
+    text-align: center; 
+    position: relative;
+    margin-top: auto; 
+}
+#submit:hover {
+    background-color: #a8987e;
+    cursor: pointer;
+}
