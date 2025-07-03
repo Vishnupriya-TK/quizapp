@@ -1,5 +1,4 @@
 
-```markdown
 # 🎯 Quiz Quest - Web-Based Quiz Application
 
 **Quiz Quest** is a fun and interactive web-based quiz app that tests your knowledge of HTML, CSS, and JavaScript. It includes a welcome screen, a multiple-choice quiz interface, and a final score page — all built using **pure HTML, CSS, and JavaScript**, with no frameworks or backend required.
@@ -80,5 +79,4 @@ This project is open-source and free to use for personal, educational, or non-co
 ---
 
 
-```
 
