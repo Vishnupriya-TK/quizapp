@@ -47,11 +47,10 @@
 
 ## 🌐 Live Preview
 
-```
 
-https://quizapp-chi-six.vercel.app/
 
-```
+[Visit here](https://quizapp-chi-six.vercel.app/)
+
 
 ---
 
